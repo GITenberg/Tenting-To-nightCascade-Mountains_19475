@@ -1,0 +1,37 @@
+_repo: Tenting-To-nightCascade-Mountains_19475
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: ''
+gutenberg_issued: '2006-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cascade Range -- Description and travel'
+- !lcsh 'Outdoor life -- Montana -- Glacier National Park -- History -- 20th century'
+- !lcsh 'Rinehart, Mary Roberts, 1876-1958 -- Travel -- Cascade Range'
+- !lcsh 'Camping -- Montana -- Glacier National Park -- History -- 20th century'
+- !lcc 'F721'
+- !lcsh 'Camping -- Cascade Range -- History -- 20th century'
+- !lcsh 'Outdoor life -- Cascade Range -- History -- 20th century'
+- !lcsh 'Rinehart, Mary Roberts, 1876-1958 -- Travel -- Montana -- Glacier National
+  Park'
+- !lcsh 'Glacier National Park (Mont.) -- Description and travel'
+- !lcsh 'Rinehart, Mary Roberts, 1876-1958 -- Family'
+title: "Tenting To-night\r\nA Chronicle of Sport and Adventure in Glacier Park and\
+  \ the Cascade Mountains"
+url: http://www.gutenberg.org/ebooks/19475
